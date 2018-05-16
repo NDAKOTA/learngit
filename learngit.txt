@@ -1,0 +1,5 @@
+Show stats and summary of commits: git log --stat --summary
+
+Show history of commits as graph: git log --graph
+
+Show history of commits as graph-summary: git log --oneline --graph --all --decorate
